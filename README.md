@@ -12,4 +12,4 @@ Html Shortcut Creator
 
 `./hsc <filename> <url>`
 or if you add in the environment variables
-`./hsc <filename> <url>`
+`hsc <filename> <url>`
