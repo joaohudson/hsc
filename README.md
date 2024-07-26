@@ -6,7 +6,7 @@ Html Shortcut Creator
 
 `gcc main.c -o hsc.exe` 
  or more fast
-`gcc main.c -o -O3 hsc.exe`
+`gcc main.c -O3 -o hsc.exe`
 
 ### Run
 
