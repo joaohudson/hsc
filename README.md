@@ -1,0 +1,2 @@
+## HSC
+### Html Shortcut Creator
